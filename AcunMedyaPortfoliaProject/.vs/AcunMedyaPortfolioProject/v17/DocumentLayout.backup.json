@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|c:\\users\\90551\\source\\repos\\acunmedyaportfoliaproject\\acunmedyaportfoliaproject\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|solutionrelative:acunmedyaportfoliaproject\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|c:\\users\\90551\\source\\repos\\acunmedyaportfoliaproject\\acunmedyaportfoliaproject\\views\\statistics\\statistics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|solutionrelative:acunmedyaportfoliaproject\\views\\statistics\\statistics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|c:\\users\\90551\\source\\repos\\acunmedyaportfoliaproject\\acunmedyaportfoliaproject\\views\\socialmedia\\socialmedialist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|solutionrelative:acunmedyaportfoliaproject\\views\\socialmedia\\socialmedialist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|c:\\users\\90551\\source\\repos\\acunmedyaportfoliaproject\\acunmedyaportfoliaproject\\views\\introduction\\introductionlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|solutionrelative:acunmedyaportfoliaproject\\views\\introduction\\introductionlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|c:\\users\\90551\\source\\repos\\acunmedyaportfoliaproject\\acunmedyaportfoliaproject\\views\\expertise\\expertiselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|solutionrelative:acunmedyaportfoliaproject\\views\\expertise\\expertiselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|c:\\users\\90551\\source\\repos\\acunmedyaportfoliaproject\\acunmedyaportfoliaproject\\views\\experiences\\experiencelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|solutionrelative:acunmedyaportfoliaproject\\views\\experiences\\experiencelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|c:\\users\\90551\\source\\repos\\acunmedyaportfoliaproject\\acunmedyaportfoliaproject\\views\\educations\\educationlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|solutionrelative:acunmedyaportfoliaproject\\views\\educations\\educationlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|c:\\users\\90551\\source\\repos\\acunmedyaportfoliaproject\\acunmedyaportfoliaproject\\views\\contact\\contactlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|solutionrelative:acunmedyaportfoliaproject\\views\\contact\\contactlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|c:\\users\\90551\\source\\repos\\acunmedyaportfoliaproject\\acunmedyaportfoliaproject\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|solutionrelative:acunmedyaportfoliaproject\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|c:\\users\\90551\\source\\repos\\acunmedyaportfoliaproject\\acunmedyaportfoliaproject\\views\\about\\aboutlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|solutionrelative:acunmedyaportfoliaproject\\views\\about\\aboutlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|c:\\users\\90551\\source\\repos\\acunmedyaportfoliaproject\\acunmedyaportfoliaproject\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|solutionrelative:acunmedyaportfoliaproject\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Statistics.cshtml",
+              "DocumentMoniker": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Statistics\\Statistics.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaPortfoliaProject\\Views\\Statistics\\Statistics.cshtml",
+              "ToolTip": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Statistics\\Statistics.cshtml",
+              "RelativeToolTip": "AcunMedyaPortfoliaProject\\Views\\Statistics\\Statistics.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T19:49:35.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocialMediaList.cshtml",
+              "DocumentMoniker": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\SocialMedia\\SocialMediaList.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaPortfoliaProject\\Views\\SocialMedia\\SocialMediaList.cshtml",
+              "ToolTip": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\SocialMedia\\SocialMediaList.cshtml",
+              "RelativeToolTip": "AcunMedyaPortfoliaProject\\Views\\SocialMedia\\SocialMediaList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T19:49:32.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaPortfoliaProject\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "AcunMedyaPortfoliaProject\\Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T19:49:28.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntroductionList.cshtml",
+              "DocumentMoniker": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Introduction\\IntroductionList.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaPortfoliaProject\\Views\\Introduction\\IntroductionList.cshtml",
+              "ToolTip": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Introduction\\IntroductionList.cshtml",
+              "RelativeToolTip": "AcunMedyaPortfoliaProject\\Views\\Introduction\\IntroductionList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T19:49:25.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpertiseList.cshtml",
+              "DocumentMoniker": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Expertise\\ExpertiseList.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaPortfoliaProject\\Views\\Expertise\\ExpertiseList.cshtml",
+              "ToolTip": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Expertise\\ExpertiseList.cshtml",
+              "RelativeToolTip": "AcunMedyaPortfoliaProject\\Views\\Expertise\\ExpertiseList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T19:49:20.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExperienceList.cshtml",
+              "DocumentMoniker": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Experiences\\ExperienceList.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaPortfoliaProject\\Views\\Experiences\\ExperienceList.cshtml",
+              "ToolTip": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Experiences\\ExperienceList.cshtml",
+              "RelativeToolTip": "AcunMedyaPortfoliaProject\\Views\\Experiences\\ExperienceList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T19:49:14.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EducationList.cshtml",
+              "DocumentMoniker": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Educations\\EducationList.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaPortfoliaProject\\Views\\Educations\\EducationList.cshtml",
+              "ToolTip": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Educations\\EducationList.cshtml",
+              "RelativeToolTip": "AcunMedyaPortfoliaProject\\Views\\Educations\\EducationList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T19:49:03.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactList.cshtml",
+              "DocumentMoniker": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Contact\\ContactList.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaPortfoliaProject\\Views\\Contact\\ContactList.cshtml",
+              "ToolTip": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Contact\\ContactList.cshtml",
+              "RelativeToolTip": "AcunMedyaPortfoliaProject\\Views\\Contact\\ContactList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T19:48:55.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryList.cshtml",
+              "DocumentMoniker": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Category\\CategoryList.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaPortfoliaProject\\Views\\Category\\CategoryList.cshtml",
+              "ToolTip": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Category\\CategoryList.cshtml",
+              "RelativeToolTip": "AcunMedyaPortfoliaProject\\Views\\Category\\CategoryList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T19:48:53.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaPortfoliaProject\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "AcunMedyaPortfoliaProject\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T19:40:35.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutList.cshtml",
+              "DocumentMoniker": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\About\\AboutList.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaPortfoliaProject\\Views\\About\\AboutList.cshtml",
+              "ToolTip": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\About\\AboutList.cshtml",
+              "RelativeToolTip": "AcunMedyaPortfoliaProject\\Views\\About\\AboutList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T19:40:32.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

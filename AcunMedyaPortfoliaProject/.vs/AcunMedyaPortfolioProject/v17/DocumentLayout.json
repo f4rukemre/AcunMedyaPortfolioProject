@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|c:\\users\\90551\\source\\repos\\acunmedyaportfoliaproject\\acunmedyaportfoliaproject\\views\\default\\partialtestimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC1164F9-941A-4C37-BF57-07257CE4F3FD}|AcunMedyaPortfoliaProject\\AcunMedyaPortfolioProject.csproj|solutionrelative:acunmedyaportfoliaproject\\views\\default\\partialtestimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartialTestimonial.cshtml",
+              "DocumentMoniker": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Default\\PartialTestimonial.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaPortfoliaProject\\Views\\Default\\PartialTestimonial.cshtml",
+              "ToolTip": "C:\\Users\\90551\\source\\repos\\AcunMedyaPortfoliaProject\\AcunMedyaPortfoliaProject\\Views\\Default\\PartialTestimonial.cshtml",
+              "RelativeToolTip": "AcunMedyaPortfoliaProject\\Views\\Default\\PartialTestimonial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T19:51:13.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
